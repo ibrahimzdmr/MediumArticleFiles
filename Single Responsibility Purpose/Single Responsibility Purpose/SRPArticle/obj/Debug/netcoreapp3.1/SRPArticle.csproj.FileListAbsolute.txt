@@ -1,0 +1,13 @@
+C:\Users\Ryro\source\repos\SRPArticle\SRPArticle\bin\Debug\netcoreapp3.1\SRPArticle.exe
+C:\Users\Ryro\source\repos\SRPArticle\SRPArticle\bin\Debug\netcoreapp3.1\SRPArticle.deps.json
+C:\Users\Ryro\source\repos\SRPArticle\SRPArticle\bin\Debug\netcoreapp3.1\SRPArticle.runtimeconfig.json
+C:\Users\Ryro\source\repos\SRPArticle\SRPArticle\bin\Debug\netcoreapp3.1\SRPArticle.runtimeconfig.dev.json
+C:\Users\Ryro\source\repos\SRPArticle\SRPArticle\bin\Debug\netcoreapp3.1\SRPArticle.dll
+C:\Users\Ryro\source\repos\SRPArticle\SRPArticle\bin\Debug\netcoreapp3.1\SRPArticle.pdb
+C:\Users\Ryro\source\repos\SRPArticle\SRPArticle\obj\Debug\netcoreapp3.1\SRPArticle.csprojAssemblyReference.cache
+C:\Users\Ryro\source\repos\SRPArticle\SRPArticle\obj\Debug\netcoreapp3.1\SRPArticle.AssemblyInfoInputs.cache
+C:\Users\Ryro\source\repos\SRPArticle\SRPArticle\obj\Debug\netcoreapp3.1\SRPArticle.AssemblyInfo.cs
+C:\Users\Ryro\source\repos\SRPArticle\SRPArticle\obj\Debug\netcoreapp3.1\SRPArticle.csproj.CoreCompileInputs.cache
+C:\Users\Ryro\source\repos\SRPArticle\SRPArticle\obj\Debug\netcoreapp3.1\SRPArticle.dll
+C:\Users\Ryro\source\repos\SRPArticle\SRPArticle\obj\Debug\netcoreapp3.1\SRPArticle.pdb
+C:\Users\Ryro\source\repos\SRPArticle\SRPArticle\obj\Debug\netcoreapp3.1\SRPArticle.genruntimeconfig.cache
